@@ -16,9 +16,6 @@ The objective of this project is to assist an organization in improving employee
 
 **Report Building:** Intuitive and user-friendly reports and visualizations were created to build the dashboard.
 
-**Dashboard Template:** I have created dashboard template using figma
-(https://www.figma.com/)
-<image src="https://github.com/Vijay-soundhariya/HR-ANALYTICS_ATTRITION-DASHBOARD/blob/main/HR%20analytics%20template.png">
 **Insights:**
 
 ■ Maximum attrition happens in Life Sciences Education i.e. 38% and Laboratory Technician as job role i.e. 62.
