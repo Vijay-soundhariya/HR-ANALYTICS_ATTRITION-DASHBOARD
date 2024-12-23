@@ -16,6 +16,12 @@ The objective of this project is to assist an organization in improving employee
 
 **Report Building:** Intuitive and user-friendly reports and visualizations were created to build the dashboard.
 
+**HR Analytics Dashboard** 
+            A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
+
+
+<image src = "https://github.com/Vijay-soundhariya/HR-ANALYTICS_ATTRITION-DASHBOARD/blob/main/HR%20Analytics%20Dashbord.png">
+
 **Insights:**
 
 ■ Maximum attrition happens in Life Sciences Education i.e. 38% and Laboratory Technician as job role i.e. 62.
