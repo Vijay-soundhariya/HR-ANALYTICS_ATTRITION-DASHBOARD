@@ -4,7 +4,7 @@ The objective of this project is to assist an organization in improving employee
 
 **The project followed the following procedure:**
 
-**Data Extraction:** The data was provided in Excel format from        the client.
+**Data Extraction:** The data was provided in Excel format from the client.
  
 **Transform data:** Load the data in Power BI and further, the data was cleaned by removing null values and duplicate values, rectifying spelling errors and data types in Power query. 
 
